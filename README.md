@@ -1,3 +1,5 @@
+When using this code, upon loading the application make sure to change your screen size to mobile as this project is meant for mobile devices currently. 
+
 ## Available Scripts
 
 In the project directory, you can run:

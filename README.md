@@ -1,5 +1,7 @@
 When using this code, upon loading the application make sure to change your screen size to mobile as this project is meant for mobile devices currently. 
 
+This project uses a self made API from mockAPI, and multiple libraries like react-spring, axios, react router and more.
+
 ## Available Scripts
 
 In the project directory, you can run:
